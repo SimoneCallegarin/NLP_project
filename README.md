@@ -8,6 +8,5 @@
 ## CCPG group
 - Callegarin Simone
 - Capobianco Ciro Davide
-- Poli Giuseppe
 - Giacomello Simone
 
