@@ -1,6 +1,0 @@
-C:/Users/simon/Desktop/Embedding_Models/* filter=lfs diff=lfs merge=lfs -text
-C:/Users/simon/Desktop/Embedding_Models/glove_twitter.wordvectors filter=lfs diff=lfs merge=lfs -text
-C:/Users/simon/Desktop/Embedding_Models filter=lfs diff=lfs merge=lfs -text
-C:/Users/simon/Desktop/Embedding_Models/ft_skip_model.bin filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
-C:/Users/simon/Desktop/Embedding_Models/ft_cbow_model.bin filter=lfs diff=lfs merge=lfs -text
